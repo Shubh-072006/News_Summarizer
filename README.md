@@ -32,7 +32,7 @@ It fetches the top 5 most recent headlines related to a specific user query (e.g
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Shubh-072006/News_Summarizer.git]
+    git clone https://github.com/Shubh-072006/News_Summarizer.git
     ```
 2.  **Install Dependencies:**
     Create the `requirements.txt` file (see section B), then install the libraries:
